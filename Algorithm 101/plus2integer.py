@@ -1,5 +1,5 @@
 # 6510742502 Phuree Phenhiran
 
-a = int(input('Input first integer: '))
-b = int(input('Input second interger: '))
-print(f'{a} + {b} = {a+b}')
+num1 = int(input('Input first integer: '))
+num2 = int(input('Input second integer: '))
+print(f'{num1} + {num2} = {num1+num2}')
